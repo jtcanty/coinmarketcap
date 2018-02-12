@@ -2,6 +2,8 @@
 
 # Installation
 
+Installation from the source:
+
 $ python install setup.py
 
 # Documentation
