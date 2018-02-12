@@ -2,6 +2,8 @@
 
 # Installation
 
+$ python install setup.py
+
 # Documentation
 
 ```python
