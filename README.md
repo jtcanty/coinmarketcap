@@ -4,10 +4,10 @@
 
 Installation from the source:
 
-$ python install setup.py
+$ python install setup.py $
 
 # Documentation
 
 ```python
 >>> from coinmarketcap import Market
->>> coinmarketcap = Market()
+>>> coinmarketcap = Market(start=0, limit=2)
