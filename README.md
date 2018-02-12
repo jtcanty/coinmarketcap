@@ -3,3 +3,7 @@
 # Installation
 
 # Documentation
+
+```python
+>>> from coinmarketcap import Market
+>>> coinmarketcap = Market()
